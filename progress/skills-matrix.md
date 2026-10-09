@@ -23,3 +23,11 @@
 ## Regla
 
 La matriz se actualiza con evidencia de ejercicios, plataforma y evaluaciones. No se cambia a MASTERED por familiaridad subjetiva.
+
+## Evidencia de estructura — 2026-10-08 (adelanto de semana 2)
+
+| Habilidad | Estado | Evidencia | Proxima prueba |
+|---|---|---|---|
+| Maximos/minimos, tendencia y rango mixto | REINFORCEMENT | Aciertos con extremos ascendentes/descendentes; confundio estructura mixta 80→76 y 70→73 con bajista | Tres ejemplos ineditos con grafica |
+| Soporte, resistencia y cambio de polaridad | REINFORCEMENT | Identifico soporte original en 54, pero no resistencia despues del retest; acierto en caso de refuerzo con nivel 40 | Un caso nuevo sin guia |
+
